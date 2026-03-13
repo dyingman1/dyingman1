@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=150&color=000000&text=dyingman1&reversal=false&fontColor=FF4C4C&fontSize=80&animation=twinkling&fontAlignY=45&desc=Red%20Team%20Operator%20|%20Offensive%20Security%20Researcher&descAlignY=82&descAlign=50&fontAlign=50)
 <br>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZjYzR2NjV2ZWt5cWUwcDQ4dTNwdW56MnZ3eDRzeWIwbTVoYzZidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hryis7A55UXZNCUTNA/giphy.gif">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaHQhQgkalu90MiEeoOiea8iKdUEP51OPxhtl7iB0jl4M2q6tddwUcaFaY3gR4OsZ8jAue6QyIPnCuojU-NIZWL_3kCIFpw8CQLVvXvV2IB6XkkkyljuoJfy1i3g458Psx44vqkGQl99Q/s0-e90-rw/AC_Milan_flag.gif">
 
 ### 🛠 Tech Stack & Target Areas
 
