@@ -1,27 +1,40 @@
-<div align="center"> 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=OPERATER:+dyingman1;TEAM:+[redpoc];CYBER+SECURITY+RESEACHER;" alt="Typing SVG" />
+  </a>
+</p>
 
-![header](https://capsule-render.vercel.app/api?type=rounded&height=150&color=000000&text=dyingman1&reversal=false&fontColor=FF4C4C&fontSize=80&animation=twinkling&fontAlignY=45&desc=Red%20Team%20Operator%20|%20Offensive%20Security%20Researcher&descAlignY=82&descAlign=50&fontAlign=50)
+<div align="center">
+  <img src="https://img.shields.io/badge/CLASS-GHOST_OPERATIVE-00FF00?style=for-the-badge&color=000000&labelColor=003300" />
+  <img src="https://img.shields.io/badge/ROLE-OFFENSIVE_SECURITY-00FF00?style=for-the-badge&color=000000&labelColor=003300" />
+  <img src="https://img.shields.io/badge/FOCUS-BUG_BOUNTY-00FF00?style=for-the-badge&color=000000&labelColor=003300" />
+</div>
+
 <br>
 
-### 🛠 Tech Stack & Target Areas
+## 🚀 TACTICAL STRIKES & ACQUISITIONS
+[![Jenkins](https://img.shields.io/badge/Target-Jenkins_Security-000000?style=for-the-badge&logo=jenkins&logoColor=00FF00&labelColor=003300)](#)
+[![n8n](https://img.shields.io/badge/Target-n8n-000000?style=for-the-badge&logo=n8n&logoColor=00FF00&labelColor=003300)](#)
 
-**Languages** <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+## ☢️ ADVISORIES
+* **[CVE-2026-42525]**: *Open redirect vulnerability*
 
-**Security & Analysis Tools** <br>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=BurpSuite&logoColor=white">
-<img src="https://img.shields.io/badge/Metasploit-215FA4?style=for-the-badge&logo=Metasploit&logoColor=white">
-<img src="https://img.shields.io/badge/Nmap-211A46?style=for-the-badge&logo=nmap&logoColor=white">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/Frida-FF5555?style=for-the-badge&logo=frida&logoColor=white">
-<img src="https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Sysinternals-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/GDA-4CAF50?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/Apktool-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<br>
 
-**Target Areas** <br>
-<img src="https://img.shields.io/badge/Web_App_Penetration_Testing-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/Windows_Client_Analysis-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Mobile_App_Security-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+## 🛠️ TECH LAB (WEAPONRY)
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-00FF00?style=for-the-badge&logo=python&logoColor=000000&color=000000&labelColor=003300" />
+  <img src="https://img.shields.io/badge/Bash-00FF00?style=for-the-badge&logo=gnu-bash&logoColor=000000&color=000000&labelColor=003300" />
+  <img src="https://img.shields.io/badge/Burp_Suite-00FF00?style=for-the-badge&logo=burpsuite&logoColor=000000&color=000000&labelColor=003300" />
+  <img src="https://img.shields.io/badge/Docker-00FF00?style=for-the-badge&logo=docker&logoColor=000000&color=000000&labelColor=003300" />
+  <img src="https://img.shields.io/badge/Linux-00FF00?style=for-the-badge&logo=linux&logoColor=000000&color=000000&labelColor=003300" />
+</div>
 
+<br>
+
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Ghost Target Lock" />
+  <br>
+  <i>"Never know what hit 'em."</i>
 </div>
