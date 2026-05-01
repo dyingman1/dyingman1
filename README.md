@@ -5,8 +5,8 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/CLASS-GHOST_OPERATIVE-00FF00?style=for-the-badge&color=000000&labelColor=003300" />
-  <img src="https://img.shields.io/badge/ROLE-OFFENSIVE_SECURITY-00FF00?style=for-the-badge&color=000000&labelColor=003300" />
+  <img src="https://img.shields.io/badge/CLASS-RED_TEAM_OPERATOR-00FF00?style=for-the-badge&color=000000&labelColor=003300" />
+  <img src="https://img.shields.io/badge/ROLE-OFFENSIVE_SECURITY_ENGINEER-00FF00?style=for-the-badge&color=000000&labelColor=003300" />
   <img src="https://img.shields.io/badge/FOCUS-BUG_BOUNTY-00FF00?style=for-the-badge&color=000000&labelColor=003300" />
 </div>
 
