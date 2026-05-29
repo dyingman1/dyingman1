@@ -18,6 +18,10 @@
 
 ## ☢️ ADVISORIES
 * **[CVE-2026-42525]**: *Open redirect vulnerability*
+* **[CVE-2026-48924]**: *Open redirect vulnerability in Bitbucket OAuth Plugin*
+* **[CVE-2026-48925]**: *CSRF vulnerability in GitHub Integration Plugin*
+* **[CVE-2026-9674]**: *CSRF vulnerability in Multijob Plugin allows resuming builds*
+* **[CVE-2026-8383]**: *LearnPress < 4.3.7 - Unauthenticated Sensitive User Information Disclosure via REST API*
 
 <br>
 
