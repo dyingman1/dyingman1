@@ -22,6 +22,8 @@
 * **[CVE-2026-48925]**: *CSRF vulnerability in GitHub Integration Plugin*
 * **[CVE-2026-9674]**: *CSRF vulnerability in Multijob Plugin allows resuming builds*
 * **[CVE-2026-8383]**: *LearnPress < 4.3.7 - Unauthenticated Sensitive User Information Disclosure via REST API*
+* **[CVE-2026-10780]**: *Static Block <= 2.2 - Insecure Direct Object Reference to Authenticated (Contributor+) Sensitive Information Disclosure via Shortcode 'id' Attribute*
+* **[CVE-2026-10782]**: *RealHomes Memberships <= 3.0.9 - Missing Authorization to Authenticated (Subscriber+) Membership Payment Bypass via 'ims_add_paypal_recurring_membership' AJAX Action*
 
 <br>
 
