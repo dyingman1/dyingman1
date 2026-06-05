@@ -22,8 +22,9 @@
 * **[CVE-2026-48925]**: *CSRF vulnerability in GitHub Integration Plugin*
 * **[CVE-2026-9674]**: *CSRF vulnerability in Multijob Plugin allows resuming builds*
 * **[CVE-2026-8383]**: *LearnPress - Unauthenticated Sensitive User Information Disclosure via REST API*
-* **[CVE-2026-10780]**: *Static Block - Insecure Direct Object Reference to Authenticated (Contributor+) Sensitive Information Disclosure via Shortcode 'id' Attribute*
-* **[CVE-2026-10782]**: *RealHomes Memberships - Missing Authorization to Authenticated (Subscriber+) Membership Payment Bypass via 'ims_add_paypal_recurring_membership' AJAX Action*
+* **[CVE-2026-10780]**: *Static Block - Insecure Direct Object Reference to Authenticated (Contributor+) Sensitive Information Disclosure*
+* **[CVE-2026-10782]**: *RealHomes Memberships - Missing Authorization to Authenticated (Subscriber+) Membership Payment Bypass*
+* **[CVE-2026-11364]**: *Product Specifications for Woocommerce - Missing Authorization to Authenticated (Subscriber+) Arbitrary Attribute/Group Creation, Modification, and Deletion*
 
 <br>
 
