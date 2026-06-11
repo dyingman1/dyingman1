@@ -20,6 +20,7 @@
 * **[CVE-2026-42525]**: *Open redirect vulnerability in Microsoft Entra ID (previously Azure AD) Plugin*
 * **[CVE-2026-48924]**: *Open redirect vulnerability in Bitbucket OAuth Plugin*
 * **[CVE-2026-48925]**: *CSRF vulnerability in GitHub Integration Plugin*
+* **[CVE-2026-48926]**: *Missing permission check in Job Import Plugin allows enumerating credentials IDs*
 * **[CVE-2026-9674]**: *CSRF vulnerability in Multijob Plugin allows resuming builds*
 * **[CVE-2026-8383]**: *LearnPress - Unauthenticated Sensitive User Information Disclosure via REST API*
 * **[CVE-2026-10780]**: *Static Block - Insecure Direct Object Reference to Authenticated (Contributor+) Sensitive Information Disclosure*
