@@ -26,6 +26,7 @@
 * **[CVE-2026-10780]**: *Static Block - Insecure Direct Object Reference to Authenticated Sensitive Information Disclosure*
 * **[CVE-2026-10782]**: *RealHomes Memberships - Missing Authorization to Authenticated Membership Payment Bypass*
 * **[CVE-2026-11364]**: *Product Specifications for Woocommerce - Missing Authorization to Authenticated Arbitrary Attribute/Group Creation, Modification, and Deletion*
+* **[CVE-2026-55470]**: *Incomplete fix for CVE-2026-45367: DSTU2 FHIRPathEngine.matches() missing RegexTimeout protection allows ReDoS*
 
 <br>
 
