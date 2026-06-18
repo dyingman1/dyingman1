@@ -15,7 +15,6 @@
 ## 🚀 TACTICAL STRIKES & ACQUISITIONS
 [![Jenkins](https://img.shields.io/badge/Target-Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=00FF00&labelColor=003300)](#)
 [![wordpress](https://img.shields.io/badge/Target-wordpress-000000?style=for-the-badge&logo=wordpress&logoColor=00FF00&labelColor=003300)](#)
-[![maven](https://img.shields.io/badge/Target-java-000000?style=for-the-badge&logo=java&logoColor=00FF00&labelColor=003300)](#)
 
 ## ☢️ ADVISORIES
 * **[CVE-2026-42525]**: *Open redirect vulnerability in Microsoft Entra ID (previously Azure AD) Plugin*
