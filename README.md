@@ -15,6 +15,7 @@
 ## 🚀 TACTICAL STRIKES & ACQUISITIONS
 [![Jenkins](https://img.shields.io/badge/Target-Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=00FF00&labelColor=003300)](#)
 [![wordpress](https://img.shields.io/badge/Target-wordpress-000000?style=for-the-badge&logo=wordpress&logoColor=00FF00&labelColor=003300)](#)
+[![maven](https://img.shields.io/badge/Target-maven-000000?style=for-the-badge&logo=maven&logoColor=00FF00&labelColor=003300)](#)
 
 ## ☢️ ADVISORIES
 * **[CVE-2026-42525]**: *Open redirect vulnerability in Microsoft Entra ID (previously Azure AD) Plugin*
@@ -27,6 +28,7 @@
 * **[CVE-2026-10782]**: *RealHomes Memberships - Missing Authorization to Authenticated Membership Payment Bypass*
 * **[CVE-2026-11364]**: *Product Specifications for Woocommerce - Missing Authorization to Authenticated Arbitrary Attribute/Group Creation, Modification, and Deletion*
 * **[CVE-2026-55470]**: *Incomplete fix for CVE-2026-45367: DSTU2 FHIRPathEngine.matches() missing RegexTimeout protection allows ReDoS*
+* **[CVE-2026-55760]**: *handlebars.java FileTemplateLoader Path Traversal*
 
 <br>
 
