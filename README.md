@@ -28,6 +28,15 @@
 * **[CVE-2026-11364]**: *Product Specifications for Woocommerce - Missing Authorization to Authenticated Arbitrary Attribute/Group Creation, Modification, and Deletion*
 * **[CVE-2026-55470]**: *Incomplete fix for CVE-2026-45367: DSTU2 FHIRPathEngine.matches() missing RegexTimeout protection allows ReDoS*
 * **[CVE-2026-55760]**: *handlebars.java FileTemplateLoader Path Traversal*
+* **[CVE-2026-57306]**: *CSRF vulnerability in Zowe zDevOps Plugin*
+* **[CVE-2026-57307]**: *missing permission check in Zowe zDevOps Plugin*
+* **[CVE-2026-57291]**: *Missing permission checks in Gitee Plugin*
+* **[CVE-2026-57292]**: *CSRF vulnerability in Gitee Plugin*
+* **[CVE-2026-57290]**: *CSRF vulnerability in Priority Sorter Plugin*
+* **[CVE-2026-57294]**: *missing permission checks in EC2 Fleet Plugin*
+* **[CVE-2026-57295]**: *CSRF vulnerability in EC2 Fleet Plugin*
+* **[CVE-2026-57296]**: *Path traversal vulnerability in External Workspace Manager Plugin*
+* **[CVE-2026-57289]**: *SSL/TLS certificate validation unconditionally disabled by Bitbucket Push and Pull Request Plugin*
 
 <br>
 
